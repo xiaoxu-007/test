@@ -3,4 +3,7 @@
  * @create 2022-04-21 15:45
  */
 public class RemoveDuplicates {
+    public static void main(String[] args) {
+
+    }
 }
